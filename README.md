@@ -11,5 +11,5 @@
 ## new feature
 
 - [x] Makefile
-- [x] github workflows
+- [x] Github workflows
 - [ ] for old project using `requirements.txt`
