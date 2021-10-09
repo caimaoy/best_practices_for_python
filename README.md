@@ -6,7 +6,8 @@
 
 ## 其他实践
 
-使用 pipx 安装 `peotry`
+- 使用 pipx 安装 `peotry`
+- 文件每行不超过 80 -> 120
 ## new feature
 
 - [ ] Makefile
