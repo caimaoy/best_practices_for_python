@@ -12,3 +12,5 @@
 
 - [x] Makefile
 - [ ] for old project using `requirements.txt`
+- [ ] github workflows
+- [ ] tox for test
