@@ -11,6 +11,5 @@
 ## new feature
 
 - [x] Makefile
+- [x] github workflows
 - [ ] for old project using `requirements.txt`
-- [ ] github workflows
-- [ ] tox for test
