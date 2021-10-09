@@ -4,6 +4,9 @@
 > <https://mitelman.engineering/blog/python-best-practice/automating-python-best-practices-for-a-new-project/>
 
 
+## 其他实践
+
+使用 pipx 安装 `peotry`
 ## new feature
 
 - [ ] Makefile
