@@ -10,5 +10,5 @@
 - 文件每行不超过 80 -> 120
 ## new feature
 
-- [ ] Makefile
+- [x] Makefile
 - [ ] for old project using `requirements.txt`
